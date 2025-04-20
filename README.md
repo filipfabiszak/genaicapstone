@@ -1,98 +1,95 @@
-# genaicapstone
+https://docs.google.com/forms/d/e/1FAIpQLSdgQkXhdxp7hrcRDAyXHv3tCFA66XJINFQ_4wLRKE1ETUtAUQ/viewform
 
+# 🚀 Gen AI Capstone Submission
 
-[Submission](https://docs.google.com/forms/d/e/1FAIpQLSdgQkXhdxp7hrcRDAyXHv3tCFA66XJINFQ_4wLRKE1ETUtAUQ/viewform)
+Welcome to the Gen AI Capstone! To ensure your submission is eligible and scored properly, please review the requirements and scoring rubric below.
 
-Description
-Evaluation
+---
 
-An entry to the competition consists of a Notebook submission. Bonus multipliers are awarded for the optional Blogpost submission (up to 1.5x) and YouTube video submission (up to 1.5x).
-Requirements
+## ✅ Minimum Requirements (Score = 0 if unmet)
 
-The notebooks must have the following minimum requirements, otherwise will be given a score of 0:
+- 🔁 **Notebook must be executable end-to-end without errors**
+- ⚙️ **Must use at least three (3) Gen AI capabilities** (see list below)
+- 🌐 **Notebook (and blogpost/video, if applicable) must be publicly viewable**
 
-    compilability of the notebook: the notebook must work without errors when executed end-to-end
-    minimum three (3) gen AI capabilities used in the notebook: see list of capabilities in Gen AI Capabilities
-    the Kaggle notebook (and blogpost & video, if available) must be publicly viewable
+---
 
-Maximum Score
+## 🏆 Maximum Score: 22.5 Points
 
-The maximum score for a submission is 22.5:
+| Component      | Details                                              | Weight         |
+|----------------|------------------------------------------------------|----------------|
+| 📓 Notebook     | Base score                                           | Up to **10 pts** |
+| ✍️ Blogpost     | Bonus multiplier based on quality                    | Up to **1.5×**  |
+| 🎥 Video        | Bonus multiplier based on quality                    | Up to **1.5×**  |
+| **Total Max**   | = 10 × 1.5 × 1.5                                     | **22.5 pts**    |
 
-    Notebook: 10 pts max
-    Blogpost: Bonus multiplier up to 1.5x
-    Video: Bonus multiplier up to 1.5x
-    Maximum total = 10 (Notebook) * 1.5 (Blogpost) * 1.5 (Video)
+---
 
-Notebook scoring (out of 10 points):
+## 📓 Notebook Scoring Breakdown (10 pts total)
 
-Use Case and Innovation (up to 5 points for the Notebook):
+### Use Case & Innovation (Up to 5 pts)
+- Creativity, novelty, and impact of the use case
+- Appropriateness of Gen AI capabilities used
 
-    how creative, novel, innovative, or impactful is the use case?
-    how well-suited is the usage of the gen AI capabilities to the use case shown?
+### Documentation Quality (Up to 5 pts)
+- Clarity and structure of documentation
+- Clear explanation of problem and how Gen AI solves it
+- Well-documented code with context, not just code cells
 
-Documentation quality (up to 5 points for the Notebook):
+---
 
-    how clear is the notebook documented? (if it's only code cells, the score would be 0)
-    does the notebook start with a clear use case or problem, and how gen AI can solve the problem?
-    does the notebook show and explain how the problem is solved in code with gen AI?
+## ✍️ Blogpost (Bonus Multiplier up to 1.5×)
+- Communicates a clear problem/use case and Gen AI solution
+- Includes code snippets for illustration
+- Discusses limitations or future possibilities
 
-Blogpost (Bonus multiplier up to 1.5x):
+---
 
-    does the blogpost communicate a clear use case or problem, and how gen AI can solve the problem?
-    does the blogpost show some snippets of code to demonstrate how it was implemented?
-    does the blogpost talk about limitations of the technology or approach, and/or future art-of-the-possible?
+## 🎥 YouTube Video (Bonus Multiplier up to 1.5×)
+- Combines visuals and voiceover
+- Balances technical explanation with storytelling
 
-YouTube video (Bonus multiplier up to 1.5x):
+---
 
-    does the YouTube video have a combination of visuals and a voiceover?
-    does the YouTube video have a good combination of technical explanation and storytelling?
+## 🧠 Gen AI Capabilities (Use at least 3)
 
-Judging
+- Structured output / JSON mode / Controlled generation  
+- Few-shot prompting  
+- Document understanding  
+- Image understanding  
+- Video understanding  
+- Audio understanding  
+- Function Calling  
+- Agents  
+- Long context window  
+- Context caching  
+- Gen AI evaluation  
+- Grounding  
+- Embeddings  
+- Retrieval-Augmented Generation (RAG)  
+- Vector search / Vector database  
+- MLOps (with Gen AI)
 
-Judges will consist of gen AI experts across engineering and marketing at Google.
-Gen AI Capabilities
+---
 
-In your Capstone Project, you must demonstrate at least three (3) of the gen AI capabilities from the list below:
+## 👥 Teams
 
-    Structured output/JSON mode/controlled generation
-    Few-shot prompting
-    Document understanding
-    Image understanding
-    Video understanding
-    Audio understanding
-    Function Calling
-    Agents
-    Long context window
-    Context caching
-    Gen AI evaluation
-    Grounding
-    Embeddings
-    Retrieval augmented generation (RAG)
-    Vector search/vector store/vector database
-    MLOps (with GenAI)
+- Submit as an **individual or team** (max 4 participants)
+- **Only one submission per participant** will be considered
+- For teams: **latest submission counts**
 
-Teams
+---
 
-    You can submit as an individual or a team.
-    Only one submission per participant will count, whether you submit as an individual or as part of a team. If your team makes multiple submissions, your most recent will be considered.
-    A team must have at most four (4) participants.
+## 💡 Sample Use Case Ideas
 
-Use case ideas
+- Summarize the latest news or YouTube videos
+- Create a RAG app for understanding board game rules
+- Develop a customer support agent powered by Gen AI
 
-Below are some sample use case ideas, for inspiration. You are not limited to these ideas.
+---
 
-    Summarize the latest news or YouTube videos on any topic
-    Create a RAG application to help you understand the rules of any board game
-    Create a customer support agent
+## 🧑‍⚖️ Judging Panel
 
-Submission Instructions
+Submissions will be reviewed by **Gen AI experts** across engineering and marketing at **Google**.
 
-Competition opens: Fri April 4 at 9:00 AM Pacific Time
-Submission deadline: Sun April 20 at 11:59 PM Pacific Time
-Making your submission
-Complete the ➡️ Google Form here ⬅️ to submit your capstone project
-
-    You must complete the form and hit "Submit" for your Capstone Project to be submitted
-    You can make multiple submissions, but only the last submission will count, based on the timestamp of your submission
-    If you, or any of your team members as listed in the Google Form, have made multiple submissions, all other previous submissions by any of the team members will be nullified, and only the last entry will be used in scoring based on the timestamp. This is done to ensure each participant has only one submission.
+---
